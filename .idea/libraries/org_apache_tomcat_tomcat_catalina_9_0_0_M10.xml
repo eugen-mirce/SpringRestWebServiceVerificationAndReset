@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.apache.tomcat:tomcat-catalina:9.0.0.M10" type="repository">
+    <properties maven-id="org.apache.tomcat:tomcat-catalina:9.0.0.M10" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-catalina/9.0.0.M10/tomcat-catalina-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/9.0.0.M10/tomcat-servlet-api-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jsp-api/9.0.0.M10/tomcat-jsp-api-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-el-api/9.0.0.M10/tomcat-el-api-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/9.0.0.M10/tomcat-juli-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-annotations-api/9.0.0.M10/tomcat-annotations-api-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-api/9.0.0.M10/tomcat-api-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jni/9.0.0.M10/tomcat-jni-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-coyote/9.0.0.M10/tomcat-coyote-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/9.0.0.M10/tomcat-util-9.0.0.M10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util-scan/9.0.0.M10/tomcat-util-scan-9.0.0.M10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
